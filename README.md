@@ -38,7 +38,7 @@ Here are my plans for further development and improvements to the app:
 ---
 
 ## Live site
-Check out the live app [deployed on vercel](https://food-recipe-react-dun.vercel.app/).
+Check out the live app [deployed on vercel](https://recipedia-smoky.vercel.app/).
 
 
 ---
